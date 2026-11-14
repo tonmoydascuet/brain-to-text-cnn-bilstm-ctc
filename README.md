@@ -143,4 +143,3 @@ These are **future directions**, not experiments already completed in this repos
 
 This repository uses competition-provided pre-extracted neural features and **adapts preprocessing hyperparameters** from the public implementation. It is not endorsed by the dataset authors or the competition organizers.
 
-**License:** No license has been selected. Add an appropriate license after confirming your rights to share the implementation and compliance with dataset/competition terms. Repository content should not include the dataset or any private recordings.
