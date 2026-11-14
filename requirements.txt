@@ -1,0 +1,11 @@
+# PyTorch/torchvision CUDA builds should match the host runtime; see README.
+torch
+numpy
+pandas
+h5py
+matplotlib
+tqdm
+nltk
+jiwer
+rouge-score
+jupyter
